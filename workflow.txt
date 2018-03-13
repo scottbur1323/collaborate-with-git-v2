@@ -1,13 +1,13 @@
 1. Chance forked the repo, copied the app folder into a new repo
 2. Chance initialized the empty repo, added the the workflow.txt
 3. Shaun cloned down the repo
-
 4. Chance generates first task and performs it.
   a.  Edit HTML file to add recipe I like in list.
-  b.  Create a new CSS file and like to it in HTML.
-  
+  b.  Create a new CSS file and link to it in HTML.
+
 5. Chances pushes to GitHub, Shaun pulls it down.
 6. Shaun generates second task and performs it and pushes changes to GitHub.
   1. Created an app.js, created array of objects, each object has name and age
+  2. edited five css properties
 
 7. Chance pulls it down, repeat steps 4-6 four more times.

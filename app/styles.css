@@ -9,7 +9,10 @@ header {
 h1 {
   grid-column: 1/span 2;
   margin-left: 1rem;
-  color: orange;
+  color: red;
+  text-transform: lowercase;
+  background-color: green;
+  padding: 4em;
 }
 
 nav {

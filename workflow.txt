@@ -10,5 +10,6 @@
 6. Shaun generates second task and performs it and pushes changes to GitHub.
   1. Created an app.js, created array of objects, each object has name and age
   2. edited five css properties
+  3. edited index.html with a paragraph
 
 7. Chance pulls it down, repeat steps 4-6 four more times.
